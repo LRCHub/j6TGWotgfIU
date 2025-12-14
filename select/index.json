@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "スプーンと汗",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-14T04:55:22.556366Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スプーンと汗",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/01_スプーンと汗_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スプーンと汗",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/02_スプーンと汗_サカナクション.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スプーンと汗",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_スプーンと汗_サカナクション.txt"
+    }
+  ]
+}
